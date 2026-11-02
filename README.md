@@ -32,4 +32,4 @@ instructions.
 
 ## Author
 
-Fatima Jamalova
+Fatima Tahirova
