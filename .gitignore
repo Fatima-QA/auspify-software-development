@@ -42,3 +42,6 @@ data/
 target/
 library.db
 library.db-*
+
+inventory.db
+inventory.db-*
