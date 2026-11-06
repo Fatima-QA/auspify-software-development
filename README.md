@@ -9,9 +9,9 @@ documentation, and instructions for running the application.
 ## Projects
 
 | Task | Project | Status |
-|------|---------|--------|
+|-----|---------|--------|
 | 1 | [Student Management System](task-01-student-management/README.md) | Implemented and manually tested |
-| 2 | Library Management System | Planned |
+| 2 | [Library Management System](task-02-library-management/README.md) | Implemented |
 | 3 | Inventory Management System | Planned |
 | 4 | Employee Management System | Planned |
 | 5 | Awaiting clarified requirements | On hold |

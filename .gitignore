@@ -38,3 +38,7 @@ bin/
 
 # Local application data
 data/
+
+target/
+library.db
+library.db-*
