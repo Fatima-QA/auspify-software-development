@@ -45,3 +45,7 @@ library.db-*
 
 inventory.db
 inventory.db-*
+
+employees.db
+employees.db-*
+desktop.ini
