@@ -12,8 +12,7 @@ documentation, and instructions for running the application.
 |-----|---------|--------|
 | 1 | [Student Management System](task-01-student-management/README.md) | Implemented and manually tested |
 | 2 | [Library Management System](task-02-library-management/README.md) | Implemented |
-| 3 | Inventory Management System | Planned |
-| 4 | Employee Management System | Planned |
+| 3 | [Inventory Management System](task-03-inventory-management/README.md) | Implemented || 4 | Employee Management System | Planned |
 | 5 | Awaiting clarified requirements | On hold |
 | 6 | Awaiting clarified requirements | On hold |
 
