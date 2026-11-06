@@ -68,6 +68,12 @@ The following checks were completed during development:
 - Cancel and confirm deletion.
 - Restart the application and verify deleted records remain removed.
 
+
+## Screenshot
+
+![Student Management System showing sample student records](screenshots/student-list.png)
+
+
 ## Author
 
 Fatima Jamalova
